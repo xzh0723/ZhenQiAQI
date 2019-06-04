@@ -7,6 +7,8 @@
 
 ![image](https://github.com/xzh0723/ZhenQiAQI/blob/master/view/param.png)
 
+![image](https://github.com/xzh0723/ZhenQiAQI/blob/master/view/data.png)
+
 运行效果
 ============
 ![image](
